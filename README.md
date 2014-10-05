@@ -1,8 +1,8 @@
 Jenny Wang
 =========
 
-I'm a junior Ruby/Ruby on Rails developer currently seeking employment.
-Check out my code on [GitHub].
+I'm a junior Ruby/Rails developer in New York City. I love good design and craftmanship—especially technology.
+Check out my code on [GitHub] and my extended CV on [Google Maps].
 
 Code examples
 -------------
@@ -60,7 +60,6 @@ Web development
   - Behavior driven design and test driven development
 
 
-
 Experience
 ----------
 
@@ -93,15 +92,22 @@ I have studied and worked in international and multicultural environments in the
 
 Side Projects / Volunteering
 ------------
-
-### Quora
-**Top Writer: Apr 2013-Present**
-
-### Wood Egg Hong Kong
+### Wood Egg (Hong Kong)
 **Editor: Oct 2013- Dec 2013**
   - Project by [Derek Sivers]
   - Editor of ~200+ essays on to build a startup in Hong Kong
 
+### Crowdsourcing Week
+**Social Media and Research Intern: Feb 2013–Apr 2013**
+- 5-day conference on enterprise level open innovation in Singapore
+- Coordinated releasing daily engagements with followers in key global markets 
+- Increased Twitter and Facebook following by 18% and 16%
+- Designed graphics for background images and icons for social media handles
+- Sought and reached out to writers and influencers to promote conference
+
+### The BUILD Foundation
+**Volunteer: Dec 2012**
+  - Helped build a school for underprivileged children in rural village in Chiang Mai, Thailand
 
 Education
 ---------
@@ -115,12 +121,17 @@ Education
     - Program by Columbia University
   - Completed senior thesis on the nation branding of Japan
 
-
+Interests
+---------
+Quora - Top Writer 2013
+Human lanuages - Cantonese (native), Mandarin (fluent), Japanese (fluent), Korean (competent), French (basic)
 
 Meet me
 -------
 I'm `thejennywang` on [Github], [LinkedIn] and [Twitter]. I also run a blog: [What Fresh Hell Is This?]
 Email: [thejennywang@gmail.com]
+
+  [Google Maps]: goo.gl/Gopiu
 
   [bunch]: https://github.com/thejennywang/bunch
   [Insta300px]: https://github.com/thejennywang/ma-instagram
