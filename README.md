@@ -9,7 +9,7 @@ Code examples
 
 | [bunch] | [Insta300px] | [Moodsic] |
 |:------- |:------------ |:--------- |
-| Rails MVP created in 10 days with a team to help people meet in the middle (by traveling time). | Instagram and 500px rolled into one with real-time updates using WebSockets. | Dynamic music player that automatically plays playlists based on weather in user's location. |
+| Rails MVP created in 10 days to help up to 5 people meet in an equidistant middle by traveling time. | Instagram and 500px rolled into one with real-time updates using WebSockets. | Dynamic music player that automatically plays playlists based on weather in user's location. |
 
 
 Web development
@@ -48,7 +48,7 @@ Web development
   - Full stack web development
   - Pair programming and teamwork
   - Evangelize Trello for project management
-  - Final project: [bunch] - a Rails 4 app to make finding a place to meet in the “middle” by travel time for up to 5 people. Created in 10 days with [cmew3], [foxjerem], [bayonnaise], [petermccarthy49].
+  - Final project: [bunch] - a Rails 4 app to make finding a place to meet in the middle by travel time for up to 5 people. Created in 10 days with [cmew3], [foxjerem], [bayonnaise], [petermccarthy49].
 
 
 ### ThoughtWorks University
