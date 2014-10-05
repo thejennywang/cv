@@ -134,7 +134,7 @@ Email: [thejennywang@gmail.com]
   [Google Maps]: goo.gl/Gopiu
 
   [bunch]: https://github.com/thejennywang/bunch
-  [Insta300px]: https://github.com/thejennywang/ma-instagram
+  [Insta300px]: https://github.com/thejennywang/ma-insta300px
   [Moodsic]: https://github.com/thejennywang/ma-moodsic
 
   [Makers Academy]: http://www.makersacademy.com
