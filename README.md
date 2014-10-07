@@ -47,7 +47,6 @@ Web development
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Evangelize Trello for project management
   - Final project: [bunch] - a Rails 4 app to make finding a place to meet in the middle by travel time for up to 5 people. Created in 10 days with [cmew3], [foxjerem], [bayonnaise], [petermccarthy49].
 
 
