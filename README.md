@@ -148,4 +148,4 @@ Email: [thejennywang@gmail.com]
   [GitHub]: https://github.com/thejennywang
   [LinkedIn]: http://linkedin.com/in/thejennywang
   [Twitter]: http://twitter.com/almightyjenny
-  [What Fresh Hell Is This?]: htpps://thealmightyjenny.com
+  [What Fresh Hell Is This?]: https://thealmightyjenny.com
