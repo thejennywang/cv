@@ -2,6 +2,7 @@ Jenny Wang
 =========
 
 I'm a junior Ruby/Rails developer in New York City. I love good design and craftmanship—especially technology.
+
 Check out my code on [GitHub] and my extended CV on [Google Maps].
 
 Code examples
@@ -122,14 +123,17 @@ Education
 
 Interests
 ---------
-*Quora*
+**Quora**
   - Top Writer 2013
-*Human lanuages*
+**Human lanuages**
   - Cantonese (native), Mandarin (fluent), Japanese (fluent), Korean (competent), French (basic)
 
 Meet me
 -------
-I'm `thejennywang` on [Github], [LinkedIn] and [Twitter]. I also run a blog: [What Fresh Hell Is This?]
+I'm `thejennywang` on [Github], [LinkedIn] and [Twitter]. 
+
+I also run a blog: [What Fresh Hell Is This?]
+
 Email: [thejennywang@gmail.com]
 
   [Google Maps]: goo.gl/Gopiu
