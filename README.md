@@ -122,8 +122,10 @@ Education
 
 Interests
 ---------
-Quora - Top Writer 2013
-Human lanuages - Cantonese (native), Mandarin (fluent), Japanese (fluent), Korean (competent), French (basic)
+*Quora*
+  - Top Writer 2013
+*Human lanuages*
+  - Cantonese (native), Mandarin (fluent), Japanese (fluent), Korean (competent), French (basic)
 
 Meet me
 -------
