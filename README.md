@@ -137,7 +137,7 @@ I also run a blog: [What Fresh Hell Is This?]
 
 Email: [thejennywang@gmail.com]
 
-  [Google Maps]: goo.gl/Gopiu
+  [Google Maps]: https://www.google.com/maps/d/viewer?mid=zE_PobdDAX6Q.kKQwzpJ9hJdk&msa=0
 
   [bunch]: https://github.com/thejennywang/bunch
   [Insta300px]: https://github.com/thejennywang/ma-insta300px
