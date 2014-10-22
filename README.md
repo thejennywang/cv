@@ -10,7 +10,7 @@ Code examples
 
 | [bunch] | [Insta300px] | [Moodsic] |
 |:------- |:------------ |:--------- |
-| Rails MVP created in 10 days using Dijkstra's algorithm to help up to 5 people meet in an equidistant middle by traveling time. | Instagram and 500px rolled into one with real-time updates using WebSockets. | Dynamic music player that automatically plays playlists based on weather in user's location. |
+| Rails MVP created in 10 days to help up to 5 people meet in an equidistant middle by traveling time. | Instagram and 500px rolled into one with real-time updates using WebSockets. | Dynamic music player that automatically plays playlists based on weather in user's location. |
 
 
 Web development
