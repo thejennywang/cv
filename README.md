@@ -1,7 +1,7 @@
 Jenny Wang
 =========
 
-I'm a junior Ruby/Rails developer in New York City. I love good design and craftmanship—especially technology.
+I'm a junior Ruby/Ruby on Rails developer in San Francisco (looking for work!). I love good design and craftmanship—especially technology.
 
 Check out my code on [GitHub] and my extended CV on [Google Maps].
 
