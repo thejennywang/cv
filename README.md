@@ -63,7 +63,7 @@ Web development
 Experience
 ----------
 
-I have studied and worked in international and multicultural environments in the U.S., France, Japan, Taiwan and Korea.
+I have studied and worked in international and multicultural environments in the U.S., France, Japan, Taiwan, and Korea.
 
 ### ThoughtWorks
 **Junior Consultant/Quality Analyst: March 2014-April 2014**
