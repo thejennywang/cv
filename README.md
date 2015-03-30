@@ -1,7 +1,7 @@
 Jenny Wang
 =========
 
-I'm a junior Ruby/Ruby on Rails developer in San Francisco (looking for work!). I've work in non-technical roles at tech startups previously, so I understand the considerations of analysts or non-programmers, too.
+MASTER OF 5 LANGUAGES, QUORA TOP WRITER, SELF-TAUGHT PROGRAMMER & HACKATHON WINNER
 
 Check out my code on [GitHub] and my extended CV on [Google Maps].
 
