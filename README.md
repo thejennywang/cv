@@ -36,6 +36,7 @@ Web development
   - HTML5 and ERB
   - CSS3, Sass and Twitter Bootstrap 3
   - WebSockets
+  - Amazon Web Services (AWS)
   - User authentication and authorization with bcrypt and Devise
   - Integration of APIs including Pusher, Twilio, Stripe, Google Maps, GMaps, Mailgun and Paperclip
   - GitHub Flavored Markdown
