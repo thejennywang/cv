@@ -3,6 +3,8 @@ Jenny Wang
 
 MASTER OF 5 LANGUAGES, QUORA TOP WRITER, SELF-TAUGHT PROGRAMMER & HACKATHON WINNER
 
+Fireball of energy who is hungry to learn and willing to work very hard. Studied, interned, and volunteered in the U.S., Japan, France, Taiwan, Korea, and Thailand.
+
 Check out my code on [GitHub] and my extended CV on [Google Maps].
 
 Code examples
