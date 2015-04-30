@@ -10,7 +10,7 @@ Code examples
 
 | [bunch] | [Insta300px] | [Moodsic] |
 |:------- |:------------ |:--------- |
-| Rails MVP created in 10 days to help up to 5 people meet in an equidistant middle by traveling time in London. | Instagram and 500px rolled into one with real-time updates using WebSockets. | Dynamic music player that automatically plays playlists based on weather in user's location. |
+| ![bunch](http://www.thealmightyjenny.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-08-at-8.29.01-PM-1024x590.png) Rails MVP created in 10 days to help up to 5 people meet in an equidistant middle by traveling time in London. | ![insta300px](http://www.thealmightyjenny.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-18-at-2.55.56-PM-1024x700.png)  Instagram and 500px rolled into one with real-time updates using WebSockets. | ![moodsic](http://www.thealmightyjenny.com/wp-content/uploads/2015/03/687474703a2f2f7777772e746865616c6d69676874796a656e6e792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30382f53637265656e2d53686f742d323031342d30382d31392d61742d31302e34392e30372d414d2e706e67-1024x575.png) Dynamic music player that automatically plays playlists based on weather in user's location. |
 
 
 Web development
@@ -41,6 +41,21 @@ Web development
   - Integration of APIs including Pusher, Twilio, Stripe, Google Maps, GMaps, Mailgun and Paperclip
   - GitHub Flavored Markdown
   - Deployment to Heroku
+  
+### Hackathon Projects
+
+E-Regs parser improvement @ GovTechHack (Apr 2015)
+  - Won prize for “Biggest Impact” 
+  - Improved workflow of running a parser for federal regulations by removing the need to specify the notice document number when running the e-regs XML parser pipeline
+
+[GeniusFund] @ Capital One Hackathon (Mar 2015)
+  - $8k 2nd Place Winner in Kicking the Fear of Finance
+  - Worked on back-end with Node.js & LevelMoney and Nexmo API’s
+
+TripGo @ Developer Week Hackathon (Feb 2015)
+  - Won $50 Amazon gift card from MongoLab
+  - Worked on front-end work in JavaScript, CSS/HTML
+  
 
 ### Makers Academy
 **Web Development Bootcamp: June-September 2013**
@@ -143,6 +158,8 @@ Email: [thejennywang@gmail.com]
   [bunch]: https://github.com/thejennywang/bunch
   [Insta300px]: https://github.com/thejennywang/ma-insta300px
   [Moodsic]: https://github.com/thejennywang/ma-moodsic
+  
+  [GeniusFund]: http://challengepost.com/thejennywang
 
   [Makers Academy]: http://www.makersacademy.com
   [cmew3]: htts://github.com/cmew3
