@@ -60,7 +60,7 @@ TripGo @ Developer Week Hackathon (Feb 2015)
   
 
 ### Makers Academy
-**Web Development Bootcamp: June-September 2013**
+**Web Development Bootcamp: 2014-2014**
 
   - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
@@ -70,7 +70,7 @@ TripGo @ Developer Week Hackathon (Feb 2015)
 
 
 ### ThoughtWorks University
-**Junior Consultant Quality Analyst: March-April 2013**
+**Quality Analyst/Consultant: 2014-2014**
 
   - 5 week intensive technical training program in Pune, India
   - Introduction to agile software development and methodologies 
@@ -84,44 +84,41 @@ Experience
 I have studied and worked in international and multicultural environments in the U.S., France, Japan, Taiwan, and Korea.
 
 ### ThoughtWorks
-**Junior Consultant/Quality Analyst: March 2014-April 2014**
+**Quality Analyst/Consultant: 2014-2014**
 
-  - Trained in agile software quality assurance and analysis
-  - Aided design, implementation, and delivery of custom-designed web application 
-  - Utilized Agile, Lean, Continuous Delivery, and Test Driven Development practices
-  - Learned basics of Java, SQL, Intelli-J IDE, Selenium, and other tools
+  - Collaborated with international team of engineers, clients, and analysts in design, implementation, and delivery of custom-designed web application project
+  - Created personas and mock ups using Balsamiq and other prototyping tools, wireframes, user stories, personas
+  - Facilitate weekly new features’ showcase to clients
+  - Employed Agile, Lean, Continuous Delivery, and Test Driven Development practices
+  - Used Java, SQL, Intelli-J IDE, and Selenium for quality assurance
 
 ### Onswipe
-**Business Development Associate: Sept 2013-Jan 2014**
+**Business Development Associate 2013-2014**
 
-  - Daily revenue reporting, quality assurance, and troubleshooting for 100+ publications 
-  - Built 50+ sample proprietary Onswipe ads and sample publications for demos, case studies and best practice presentations
-  - Support BD team in creating and maintaining publisher partnerships
-  - Onboarded, trained, and managed a new intern
+  - Created white-labeled solutions using HTML/CSS and RSS/XML feeds to source and on-board new clients
+  - Demonstrated new product features to clients with each release
+  - Escalated technical issues for 100+ publications, worked with engineering to resolve
+  - Reported daily revenue 
 
 ### Mandalah Tokyo
-**Research Intern: Oct 2012-Jan 2013**
+**Research and Content Marketing Intern: 2012-2013**
 
-  - Published 6 articles on retail innovation in Tokyo on ShiftEast.com
-  - Scouted and followed leads on latest trends and concepts in innovative practices 
-  - Assisted with benchmarking, research and analysis, and fact checking
-  - Represented company at trade shows and conferences and report new trends
+- Senior Year First-Semester Internship (study abroad)
+- Published weekly retail innovation blog articles based on research from Japanese publications 
+- Conducted research and analysis, fact-checking, and provided consultation and recommendations on best practices
 
 
 Side Projects / Volunteering
 ------------
+### Quora Top Writer 2014
+**Top Writer: 2013-Present**
+  - Most Viewed Writer in Language Learning, Learning Chinese
+
+
 ### Wood Egg (Hong Kong)
 **Editor: Oct 2013- Dec 2013**
   - Project by [Derek Sivers]
   - Editor of ~200+ essays on to build a startup in Hong Kong
-
-### Crowdsourcing Week
-**Social Media and Research Intern: Feb 2013–Apr 2013**
-- 5-day conference on enterprise level open innovation in Singapore
-- Coordinated releasing daily engagements with followers in key global markets 
-- Increased Twitter and Facebook following by 18% and 16%
-- Designed graphics for background images and icons for social media handles
-- Sought and reached out to writers and influencers to promote conference
 
 ### The BUILD Foundation
 **Volunteer: Dec 2012**
@@ -131,7 +128,7 @@ Education
 ---------
 
 ### Bryn Mawr College
-**Studied East Asian Studies: 2009-20013**
+**Studied East Asian Studies: 2009-2013**
 
   - GPA: 3.5, Cum Laude
   - Semesters abroad in Taipei, Taiwan and Tokyo, Japan.
@@ -145,7 +142,7 @@ Interests
   - Top Writer 2013
 
 **Human lanuages**
-  - Cantonese (native), Mandarin (fluent), Japanese (fluent), Korean (competent), French (basic)
+  - Cantonese (native), Mandarin (fluent), Japanese (fluent), Korean (conversational)
 
 Meet me
 -------
