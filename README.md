@@ -83,15 +83,6 @@ Experience
 
 I have studied and worked in international and multicultural environments in the U.S., France, Japan, Taiwan, and Korea.
 
-### ThoughtWorks
-**Quality Analyst/Consultant: 2014-2014**
-
-  - Collaborated with international team of engineers, clients, and analysts in design, implementation, and delivery of custom-designed web application project
-  - Created personas and mock ups using Balsamiq and other prototyping tools, wireframes, user stories, personas
-  - Facilitate weekly new features’ showcase to clients
-  - Employed Agile, Lean, Continuous Delivery, and Test Driven Development practices
-  - Used Java, SQL, Intelli-J IDE, and Selenium for quality assurance
-
 ### Onswipe
 **Business Development Associate 2013-2014**
 
